@@ -247,7 +247,7 @@ width, etc. */
     flex-wrap: wrap;
     justify-content: space-around;
     flex-direction: row;
-    height: calc(100vh - var(--main-content-margin-top) - 9rem);
+    height: 100%;
   }
   .product-card,
   .intro-text {
